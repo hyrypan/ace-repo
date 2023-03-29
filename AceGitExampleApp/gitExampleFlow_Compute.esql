@@ -9,7 +9,6 @@ CREATE COMPUTE MODULE gitExampleFlow_Compute
 		--first row and commit
 		--second
 		--third
-		--forth
 		
 		
 		
