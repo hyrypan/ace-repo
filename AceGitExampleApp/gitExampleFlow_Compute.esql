@@ -7,7 +7,7 @@ CREATE COMPUTE MODULE gitExampleFlow_Compute
 		-- CALL CopyEntireMessage();
 		
 		--first row and commit
-		--second
+		
 		
 		
 		
