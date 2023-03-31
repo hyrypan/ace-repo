@@ -11,9 +11,6 @@ CREATE COMPUTE MODULE gitExampleFlow_Compute
 		
 		--new2
 		
-		
-		--new3
-		
 		RETURN TRUE;
 	END;
 
