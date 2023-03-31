@@ -9,10 +9,16 @@ CREATE COMPUTE MODULE gitExampleFlow_Compute
 		--first row and commit
 		
 		
+		
+		
 		--new2
+		
+		--new4
 		
 		
 		--new3
+		
+		
 		
 		RETURN TRUE;
 	END;
